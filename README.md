@@ -4,7 +4,7 @@
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
 </p>
 
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
