@@ -64,48 +64,14 @@
 </p>
     <h1>Welcome to My Professional Portfolio</h1>
     
-<div class="section">
-    <h2>About Me</h2>
-    <p>I'm a full-stack developer with a recent focus on infrastructure. I have extensive experience building WordPress websites and managing backend systems using Golang and Python.</p>
-    <p>Currently, I'm expanding my knowledge in Linux, Rust, Terraform, Active Directory, and AWS. My goal is to continue developing expertise in modern infrastructure and full-stack development.</p>
-</div>
-
-<div class="section">
-    <h2>Experience</h2>
-    <p>I have 2 years of professional experience in the research area, where I focused on systems engineering. In the past, I've worked on various WordPress projects, including:</p>
-    <ul>
-        <li><a href="https://grupoevra.com/" target="_blank">Grupo Evra</a></li>
-        <li><a href="https://jarfer.edu.ec/" target="_blank">Jarfer</a></li>
-    </ul>
-    <p>Additionally, I have been involved in backend management and development using technologies like Golang and Python.</p>
-</div>
-
-<div class="section">
-    <h2>Education</h2>
-    <p>I hold a Bachelor's degree in Systems Engineering, with 4 years of academic education and 2 years of research experience in the field.</p>
-    <p>For more information on my academic background, feel free to visit my <a href="https://orcid.org/0009-0007-6014-8911" target="_blank">ORCID profile</a>.</p>
-</div>
-
-<div class="section">
-    <h2>Current Learning</h2>
-    <p>I am currently learning:</p>
-    <ul>
-        <li>Linux</li>
-        <li>Rust</li>
-        <li>Terraform</li>
-        <li>Active Directory</li>
-        <li>AWS</li>
-    </ul>
-</div>
-
-<div class="section">
-    <h2>Books I Have Read</h2>
-    <p>I have read the following books to deepen my understanding of microservices and software architecture:</p>
-    <ul>
-        <li><i>Building Microservices: Designing Fine-Grained Systems</i></li>
-        <li><i>Designing .NET Microservices-Oriented Architectures</i></li>
-    </ul>
-</div>
+<ul>
+    <li><span class="emoji">🧐</span><strong>Intereses:</strong> Desarrollo Full Stack. Últimamente me he centrado en infraestructura.</li>
+    <li><span class="emoji">💼</span><strong>Experiencia:</strong> He construido sitios web en WordPress y los he configurado en Hostinger, como en <a href="https://grupoevra.com/" target="_blank">Grupo Evra</a> y <a href="https://jarfer.edu.ec/" target="_blank">Jarfer</a>.</li>
+    <li><span class="emoji">🎓</span><strong>Gestión Backend:</strong> He trabajado con Golang y Python para la gestión de backend.</li>
+    <li><span class="emoji">🌱</span><strong>Actualmente aprendiendo:</strong> Linux, Rust, Terraform, Active Directory y AWS.</li>
+    <li><span class="emoji">📚</span><strong>Libros leídos:</strong> "Building Microservices: Designing Fine-Grained Systems" y "Designing .NET Microservices-Oriented Architectures".</li>
+    <li><span class="emoji">💻</span><strong>Formación académica:</strong> Tengo 4 años de educación en Ingeniería de Sistemas y 2 años de experiencia en el área de investigación. Mi perfil académico está disponible en mi <a href="https://orcid.org/0009-0007-6014-8911" target="_blank">ORCID</a>.</li>
+</ul>
 
 <h3>CSPs</h3>
 <h3>Monitoring</h3>
