@@ -62,17 +62,50 @@
 <p>
     I make elegantly professional 💻⎈🐳 <strong>Distributed Infrastructure / Kubernetes</strong> ☁️ <strong>Cloud Native</strong> 📝 <strong>DeFi Smart Contract</strong> and 🌐 <strong>Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈
 </p>
+    <h1>Welcome to My Professional Portfolio</h1>
+    
+<div class="section">
+    <h2>About Me</h2>
+    <p>I'm a full-stack developer with a recent focus on infrastructure. I have extensive experience building WordPress websites and managing backend systems using Golang and Python.</p>
+    <p>Currently, I'm expanding my knowledge in Linux, Rust, Terraform, Active Directory, and AWS. My goal is to continue developing expertise in modern infrastructure and full-stack development.</p>
+</div>
 
-<ul>
-    <li>🧐 Interested in full stack. Recent focus on Infra.</li>
-    <li>💼 Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.</li>
-    <li>🎓 Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.</li>
-    <li>🌱 Currently learning Linux, Rust, Solidity, Math & Philosophy.</li>
-    <li>📚 Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.</li>
-    <li>💻 With 4 years' computer science and technology education and 5 years' development working experience.</li>
-    <li>⛵ Encouraging people for open source collaborations.</li>
-    <li>✍🏻 I write my personal thoughts on Programming & Tech in my <a href="https://halfrost.com/" target="_blank">Personal Blog</a> (Cumulative 7.67 million PV / 4.31 million UV).</li>
-</ul>
+<div class="section">
+    <h2>Experience</h2>
+    <p>I have 2 years of professional experience in the research area, where I focused on systems engineering. In the past, I've worked on various WordPress projects, including:</p>
+    <ul>
+        <li><a href="https://grupoevra.com/" target="_blank">Grupo Evra</a></li>
+        <li><a href="https://jarfer.edu.ec/" target="_blank">Jarfer</a></li>
+    </ul>
+    <p>Additionally, I have been involved in backend management and development using technologies like Golang and Python.</p>
+</div>
+
+<div class="section">
+    <h2>Education</h2>
+    <p>I hold a Bachelor's degree in Systems Engineering, with 4 years of academic education and 2 years of research experience in the field.</p>
+    <p>For more information on my academic background, feel free to visit my <a href="https://orcid.org/0009-0007-6014-8911" target="_blank">ORCID profile</a>.</p>
+</div>
+
+<div class="section">
+    <h2>Current Learning</h2>
+    <p>I am currently learning:</p>
+    <ul>
+        <li>Linux</li>
+        <li>Rust</li>
+        <li>Terraform</li>
+        <li>Active Directory</li>
+        <li>AWS</li>
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Books I Have Read</h2>
+    <p>I have read the following books to deepen my understanding of microservices and software architecture:</p>
+    <ul>
+        <li><i>Building Microservices: Designing Fine-Grained Systems</i></li>
+        <li><i>Designing .NET Microservices-Oriented Architectures</i></li>
+    </ul>
+</div>
 
 <h3>CSPs</h3>
 <h3>Monitoring</h3>
