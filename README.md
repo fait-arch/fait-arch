@@ -65,13 +65,14 @@
     <h1>Welcome to My Professional Portfolio</h1>
     
 <ul>
-    <li><span class="emoji">🧐</span><strong>Intereses:</strong> Desarrollo Full Stack. Últimamente me he centrado en infraestructura.</li>
-    <li><span class="emoji">💼</span><strong>Experiencia:</strong> He construido sitios web en WordPress y los he configurado en Hostinger, como en <a href="https://grupoevra.com/" target="_blank">Grupo Evra</a> y <a href="https://jarfer.edu.ec/" target="_blank">Jarfer</a>.</li>
-    <li><span class="emoji">🎓</span><strong>Gestión Backend:</strong> He trabajado con Golang y Python para la gestión de backend.</li>
-    <li><span class="emoji">🌱</span><strong>Actualmente aprendiendo:</strong> Linux, Rust, Terraform, Active Directory y AWS.</li>
-    <li><span class="emoji">📚</span><strong>Libros leídos:</strong> "Building Microservices: Designing Fine-Grained Systems" y "Designing .NET Microservices-Oriented Architectures".</li>
-    <li><span class="emoji">💻</span><strong>Formación académica:</strong> Tengo 4 años de educación en Ingeniería de Sistemas y 2 años de experiencia en el área de investigación. Mi perfil académico está disponible en mi <a href="https://orcid.org/0009-0007-6014-8911" target="_blank">ORCID</a>.</li>
+    <li><span class="emoji">🧐 </span><strong>Interests:</strong> Full Stack Development. Recently, I have focused on infrastructure.</li>
+    <li><span class="emoji">💼 </span><strong>Experience:</strong> I have built WordPress websites and set them up on Hostinger, such as <a href="https://grupoevra.com/" target="_blank">Grupo Evra</a> and <a href="https://jarfer.edu.ec/" target="_blank">Jarfer</a>.</li>
+    <li><span class="emoji">🎓 </span><strong>Backend Management:</strong> I have worked with Golang and Python for backend management.</li>
+    <li><span class="emoji">🌱 </span><strong>Currently Learning:</strong> Linux, Rust, Terraform, Active Directory, and AWS.</li>
+    <li><span class="emoji">📚 </span><strong>Books I've Read:</strong> "Building Microservices: Designing Fine-Grained Systems" and "Designing .NET Microservices-Oriented Architectures".</li>
+    <li><span class="emoji">💻 </span><strong>Education:</strong> I have 4 years of education in Systems Engineering and 2 years of research experience. My academic profile is available on my <a href="https://orcid.org/0009-0007-6014-8911" target="_blank">ORCID</a>.</li>
 </ul>
+
 
 <h3>CSPs</h3>
 <h3>Monitoring</h3>
