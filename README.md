@@ -57,6 +57,13 @@
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
     </a>
+    <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+        <img src="https://vite.dev/logo.svg" alt="Vite" width="40" height="40"/>
+    </a>
+    <a href="" target="_blank" rel="noreferrer">
+        <img src="https://www.gstatic.com/devrel-devsite/prod/vdf1c73ddfa29bc07c1524d67528b078b0717f3e7ffc0621bf09846cb55759e81/tensorflow/images/lockup.svg" alt="TenserFlow" width="180" height="50"/>
+    </a>
+
 </p>
 
 <p>
