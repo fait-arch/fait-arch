@@ -12,6 +12,16 @@ A results-driven Cloud Architect and Backend Developer specializing in distribut
 </p>
 
 ---
+<h2 align="left">Production Deployments</h2>
+<p align="left">
+<a href="https://wm-ke.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Ké_Ecommerce-Live_Production-blue?style=for-the-badge&logo=wordpress" alt="Ké Ecommerce">
+</a>
+<a href="https://ikarusapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Ikarus_App-Live_Production-blue?style=for-the-badge&logo=google-chrome" alt="Ikarus App">
+</a>
+</p>
+
 
 <h2 align="left">Technical Specializations</h2>
 <p align="center">
