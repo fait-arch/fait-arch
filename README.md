@@ -4,7 +4,7 @@
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
 </p>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Backend Developer for Golang</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,21 +69,25 @@
     </a>
 </p>
 
-<p>
-    I make elegantly professional 💻⎈🐳 <strong>Distributed Infrastructure / Kubernetes</strong> ☁️ <strong>Cloud Native</strong> 📝 <strong>DeFi Smart Contract</strong> and 🌐 <strong>Website</strong> for a living and also <strong>Write some blogs</strong>. 🌈
-</p>
-    <h1>Welcome to My Professional Portfolio</h1>
-    
-<ul>
-    <li><span class="emoji">🧐 </span><strong>Interests:</strong> Full Stack Development. Recently, I have focused on infrastructure.</li>
-    <li><span class="emoji">💼 </span><strong>Experience:</strong> I have built WordPress websites and set them up on Hostinger, such as <a href="https://grupoevra.com/" target="_blank" style="text-decoration: none">Grupo Evra</a> and <a href="https://jarfer.edu.ec/" target="_blank" style="text-decoration: none">Jarfer</a>.</li>
-    <li><span class="emoji">🎓 </span><strong>Backend Management:</strong> I have worked with Golang and Python for backend management.</li>
-    <li><span class="emoji">🌱 </span><strong>Currently Learning:</strong> Linux, Rust, Terraform, Active Directory, and AWS.</li>
-    <li><span class="emoji">📚 </span><strong>Books I've Read:</strong> "Building Microservices: Designing Fine-Grained Systems" and "Designing .NET Microservices-Oriented Architectures".</li>
-    <li><span class="emoji">💻 </span><strong>Education:</strong> I have 4 years of education in Systems Engineering and 2 years of research experience. My academic profile is available on my <a href="https://orcid.org/0009-0007-6014-8911" target="_blank" style="text-decoration: none">ORCID</a>.</li>
-</ul>
+**I design robust cloud architectures** ☁️⎈ **| Dockerfile Specialist** 🐳 **| Cloud Native Solutions Engineer** 💻  
+*Building scalable, secure, and cost-optimized infrastructure for modern applications*  
+
+### Professional Profile  
+🏗️ **Cloud Architect Focus**: Designing multi-cloud solutions with emphasis on:  
+- High availability architectures  
+- Infrastructure-as-Code (Terraform)  
+- Cloud security best practices  
+
+🔧 **Technical Leadership**:  
+- Migrated monolithic systems to microservices (Golang/Python)  
+- Implemented CI/CD pipelines for cloud-native deployments (Github action)
+
+### Expertise  
+☁️ **Cloud Platforms**: AWS, GCP
+
+📚 **Recent Cloud Projects**:  
+- RAG (Retrieval-Augmented Generation) and semantic search AI techniques
+
+ 
 
 
-<h3>CSPs</h3>
-<h3>Monitoring</h3>
-<h3>Databases</h3>
