@@ -139,5 +139,5 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 </p>
 
 <blockquote align="center">
-"Engineering robust cloud architectures with security and scalability as first principles"
+"Engineering robust cloud architectures with security and scalability as first principles, no es difícil solo confuso al inicio"
 </blockquote>
