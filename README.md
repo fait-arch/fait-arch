@@ -66,53 +66,7 @@ A results-driven Cloud Architect and Backend Developer specializing in distribut
 
 ---
 
-
-<h2 align="left">Education</h2>
-<p align="left">
-<strong>International University of Ecuador (UIDE)</strong><br>
-Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
-<br>
-<strong>Key Academic Achievements:</strong><br>
-• Published researcher in IEEE and peer-reviewed journals<br>
-• Vice President, Computer Science Student Association<br>
-• Coursework: Machine Learning, Network Simulation, Molecular Dynamics, Virtual Infrastructures<br>
-• Recipient of multiple academic excellence awards
-</p>
-
-<h2 align="left">Professional Experience</h2>
-
-<h3 align="left">Frontend Developer | !Ké</h3>
-<p align="left">
-<em>February 2025 - Present</em><br>
-• Engineered Next.js 15 applications with TypeScript and Tailwind CSS<br>
-• Implemented analytics solutions (Google Analytics, Meta Pixel)<br>
-• Optimized CI/CD pipelines for GCP deployments<br>
-</p>
-
-<h3 align="left">Research Assistant | UIDE & Yachay Tech</h3>
-<p align="left">
-<em>January 2023 - Present</em><br>
-• Deployed ML models in production environments using Flutter/Expo<br>
-• Authored and peer-reviewed academic publications (IEEE standards)<br>
-• Conducted computational biology research using HPC clusters<br>
-</p>
-
-<h3 align="left">Technology Infrastructure Analyst | Galapagos Biosecurity Agency</h3>
-<p align="left">
-<em>June 2022 - September 2022</em><br>
-• Performed comprehensive IT infrastructure audits<br>
-• Developed digital transformat<h1 align="center">Hello, I'm Juan David Moromenacho Aguirre (fait-arch)</h1>
-
-<p align="center">
-    <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
-</p>
-
 <h3 align="center">Backend Developer (Golang) | Cloud Solutions Architect</h3>
-
-<h2 align="left">Professional Summary</h2>
-<p align="left">
-A results-driven Cloud Architect and Backend Developer specializing in distributed systems and cloud-native solutions. Demonstrated expertise in designing scalable infrastructure, optimizing CI/CD pipelines, and implementing machine learning systems in production environments. Combines strong academic foundations in Computer Systems Engineering with practical industry experience across multiple technology domains.
-</p>
 
 <h2 align="left">Education</h2>
 <p align="left">
