@@ -90,6 +90,12 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 • Optimized CI/CD pipelines for GCP deployments<br>
 </p>
 
+<h3 align="left">Cloud architecture | !Ké</h3>
+<p align="left">
+<em>Junio 2025 - Present</em><br>
+• CLI GCP
+</p>
+
 <h3 align="left">Research Assistant | UIDE & Yachay Tech</h3>
 <p align="left">
 <em>January 2023 - Present</em><br>
@@ -115,10 +121,10 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 <p align="left">
 <strong>Cloud Architecture:</strong> AWS, GCP, Terraform, Docker<br>
 <strong>Backend Development:</strong> Golang (Gin, Fiber), Python (Django, FastAPI)<br>
-<strong>Machine Learning:</strong> TensorFlow, Pandas, Scikit-learn<br>
+<strong>Machine Learning:</strong> TensorFlow, Pandas, Polar, Scikit-learn<br>
 <strong>Frontend:</strong> TypeScript, React, Next.js, Tailwind CSS<br>
 <strong>DevOps:</strong> GitHub Actions, CI/CD Pipelines, Nginx<br>
-<strong>Databases:</strong> SQL Server, SQLite, Firebase<br>
+<strong>Databases:</strong> SQL Server, SQLite, Firebase, Postgres<br>
 <strong>Languages:</strong> Spanish (Native), English (Professional Working Proficiency)
 </p>
 
