@@ -130,9 +130,10 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 
 <h2 align="left">Research & Publications</h2>
 <p align="left">
-• <a href="https://ieeexplore.ieee.org/abstract/document/10975276">"Advanced Machine Learning Techniques for Distributed Systems"</a> - IEEE 2024<br>
-• <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5041765">"Computational Approaches to Molecular Dynamics"</a> - SSRN 2024<br>
-• <a href="https://www.scitepress.org/Papers/2024/127632/127632.pdf">"Cloud-Native Architectures for AI Applications"</a> - SciTePress 2024
+• <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0314012">"Metabolic pathways of Alternative Lengthening of Telomeres in pan-carcinoma"</a> - Plos One July 21, 2024
+• <a href="https://ieeexplore.ieee.org/abstract/document/10975276">"AI-based predictive and detection models for Avian Pox caused by Avipoxvirus Spp in the Galápagos Islands"</a> - IEEE Xplore  24 April, 2025
+• <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5041765">"Optimization of Fumigation Scheduling in the Galapagos Islands Using Genetic Algorithms"</a> - SSRN  3 Diciembre, 2024
+• <a href="https://www.scitepress.org/Link.aspx?doi=10.5220/0012763200003753">"Artificial Intelligence-Based Detection and Prediction of Giant African Snail (Lissachatina Fulica) Infestation in the Galápagos Islands"</a> - scitepress, 2024
 </p>
 
 <h2 align="left">Notable Projects</h2>
