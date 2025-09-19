@@ -138,7 +138,7 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 
 <h2 align="left">Notable Projects</h2>
 <p align="left">
-• <strong>WM-KE Platform:</strong> <a href="https://wm-ke.com/">https://wm-ke.com/</a><br>
+• <strong>WM-KE Platform:</strong> <a href="https://www.kestore.com.ec/">www.kestore.com.ec/</a><br>
 • <strong>Shortline Proxy Service:</strong> <a href="http://shortline.proxy.rlwy.net:53282/">http://shortline.proxy.rlwy.net:53282/</a><br>
 • <strong>Educational Portal:</strong> <a href="https://jarfer.edu.ec/">https://jarfer.edu.ec/</a><br>
 • <strong>Molecular Dynamics Simulation Framework</strong> (Amber, HPC)<br>
