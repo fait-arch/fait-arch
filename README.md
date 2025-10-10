@@ -4,6 +4,8 @@
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
 </p>
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6014--8911-green?logo=orcid)](https://orcid.org/0009-0007-6014-8911)
+
 <h3 align="center">Backend Developer (Golang) | Cloud Solutions Architect</h3>
 
 <h2 align="left">Professional Summary</h2>
