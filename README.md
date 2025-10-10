@@ -4,13 +4,13 @@
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
 </p>
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6014--8911-green?logo=orcid)](https://orcid.org/0009-0007-6014-8911)
-## Perfil Académico
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6014--8911-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6014-8911)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=7pf2s2AAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Juan-Aguirre-50?ev=hdr_xprf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Moromenacho_Aguirre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-moromenacho-aguirre)
+
+## Perfil Académico
+
 
 <h3 align="center">Backend Developer (Golang) | Cloud Solutions Architect</h3>
 
