@@ -4,12 +4,37 @@
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
 </p>
 
+<div align="center">
+<a href="https://orcid.org/0009-0007-6014-8911">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+</a>
+<a href="https://scholar.google.com/citations?user=7pf2s2AAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+</a>
+<a href="https://www.researchgate.net/profile/Juan-Aguirre-50?ev=hdr_xprf">
+  <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+</a>
+<a href="https://www.linkedin.com/in/juan-moromenacho-aguirre">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/juan-moromenacho-aguirre-bb72b7227/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jdmoromenachoag@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/593983102022" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+</div>
+
 ![Visitas](https://komarev.com/ghpvc/?username=fait-arch&label=Visitas%20al%20perfil&color=orange&style=for-the-badge)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6014--8911-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6014-8911)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=7pf2s2AAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Juan-Aguirre-50?ev=hdr_xprf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Moromenacho_Aguirre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-moromenacho-aguirre)
 
 ## Perfil Académico
 
@@ -22,17 +47,6 @@ A results-driven Cloud Architect and Backend Developer specializing in distribut
 </p>
 
 ---
-<h2 align="left">Production Deployments</h2>
-<p align="left">
-<a href="https://wm-ke.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Ké_Ecommerce-Live_Production-blue?style=for-the-badge&logo=wordpress" alt="Ké Ecommerce">
-</a>
-<a href="https://ikarusapp.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Ikarus_App-Live_Production-blue?style=for-the-badge&logo=google-chrome" alt="Ikarus App">
-</a>
-</p>
-
-
 <h2 align="left">Technical Specializations</h2>
 <p align="center">
     <img src="https://svgl.app/library/golang_dark.svg" alt="Golang" width="60" height="60"/>
@@ -61,22 +75,9 @@ A results-driven Cloud Architect and Backend Developer specializing in distribut
     <img src="https://svgl.app/library/railway_dark.svg" alt="railway_dark.svg" width="60" height="60"/>
 </p>
 
-<h2 align="left">Connect</h2>
-<p align="left">
-    <a href="https://www.linkedin.com/in/juan-moromenacho-aguirre-bb72b7227/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" />
-    </a>
-    <a href="mailto:jdmoromenachoag@gmail.com" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="24" width="24" />
-    </a>
-    <a href="https://wa.me/593983102022" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="24" width="24" />
-    </a>
-</p>
+
 
 ---
-
-<h3 align="center">Backend Developer (Golang) | Cloud Solutions Architect</h3>
 
 <h2 align="left">Education</h2>
 <p align="left">
@@ -119,11 +120,6 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 <em>June 2022 - September 2022</em><br>
 • Performed comprehensive IT infrastructure audits<br>
 • Developed digital transformation proposals<br>
-• Designed technology modernization roadmaps<br>
-</p>
-
-<h2 align="left">Technical Proficiencies</h2>
-</blockquote>ion proposals<br>
 • Designed technology modernization roadmaps<br>
 </p>
 
