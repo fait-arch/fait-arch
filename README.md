@@ -155,3 +155,8 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 <blockquote align="center">
 "Engineering robust cloud architectures with security and scalability as first principles, no es difícil solo confuso al inicio"
 </blockquote>
+
+---
+
+![Visitas](https://komarev.com/ghpvc/?username=fait-arch&label=Visitas%20al%20perfil&color=orange&style=for-the-badge)
+
