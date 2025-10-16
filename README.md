@@ -4,6 +4,8 @@
     <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Header Image" />
 </p>
 
+![Visitas](https://komarev.com/ghpvc/?username=fait-arch&label=Visitas%20al%20perfil&color=orange&style=for-the-badge)
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6014--8911-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-6014-8911)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue?logo=googlescholar)](https://scholar.google.com/citations?user=7pf2s2AAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Juan-Aguirre-50?ev=hdr_xprf)
@@ -157,6 +159,41 @@ Bachelor of Science in Computer Systems Engineering (Specialization: DevOps)<br>
 </blockquote>
 
 ---
+<div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=fait-arch&label=Visitas%20al%20perfil&color=orange&style=for-the-badge)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/fait-arch/snk/manual-run-output/dist/only-svg/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/fait-arch/snk/manual-run-output/dist/only-svg/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/fait-arch/snk/manual-run-output/dist/only-svg/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
+
+
+
+<div align="center">
+
+<!-- Bento Grid Dashboard con bordes más redondeados -->
+<table style="border-collapse: separate; border-spacing: 12px;">
+  <tr>
+    <!-- Stats Card -->
+    <td width="50%" style="border-radius: 24px; overflow: hidden; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=fait-arch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=24" alt="GitHub Stats" width="100%" style="display: block; border-radius: 24px;"/>
+    </td>
+    <!-- Languages Card -->
+    <td width="50%" style="border-radius: 24px; overflow: hidden; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fait-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=24&langs_count=8" alt="Top Langs" width="100%" style="display: block; border-radius: 24px;"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
